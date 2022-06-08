@@ -1,37 +1,203 @@
-## Welcome to GitHub Pages
+# Juno
+<img src=https://images.unsplash.com/photo-1608768390131-7bfeae6c76f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80>
 
-You can use the [editor on GitHub](https://github.com/ChrisKellyLP/Juno/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Common (and less common) Acronyms in Digital Identity
+ 
+This page attempts to list some of the most commonly seen acronyms and terms used in the digital identity world. Click each entry for a very brief adescription/explanation and links to further reading.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For more detailed material, check out [DIF's Decentralized Identity FAQ](https://identity.foundation/faq/), our general-purpose knowledgebase, which aims to explain concepts, models and challenges in greater detail.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
+ 
+ 
 
-```markdown
-Syntax highlighted code block
+**<details><summary>Unfold me</summary>**
+	
+++
+**More information:**
+</details>
 
-# Header 1
-## Header 2
-### Header 3
+</details>
 
-- Bulleted
-- List
+**<details><summary>DIF - Decentralized Identity Foundation</summary>**
+	
+ <img src="https://github.com/decentralized-identity/org/blob/master/Org%20documents/Brand%20materials/DIF%20Logo/DIF_logo_color_square_v1.png" align="right" width="200" height="200" />
 
-1. Numbered
-2. List
+The [Decentralized Identity Foundation](https://identity.foundation/) organization (also known as **DIF**) was formed as a [Joint Development Foundation](https://www.jointdevelopment.org/) project in 2017 and has grown to be a major venue for IPR-protected co-development among large and small industry players. It has historically focused on the development of both working open-source code and pre-standard specifications for decentralized identity, but it is starting to branch out into non-technical forms of cooperation for the purposes of market-building and to promote all open decentralized identity technology, whether created in DIF or elsewhere.
 
-**Bold** and _Italic_ and `Code` text
+Currently, DIF has a diverse, international membership, including over 300 member companies, universities, and government agencies that are collaboratively developing the broader space of decentralized identities. 
 
-[Link](url) and ![Image](src)
-```
+There are 9 technical working groups, 3 business interest groups, and 4 different open groups to bring together members with shared interests, common goals, and a desire to collaborate. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Visit our website here](https://identity.foundation/) or check out our [DIF Org FAQ](https://github.com/decentralized-identity/org/blob/master/dif_org_faq.md) for info about how DIF is structured, governed & funded.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChrisKellyLP/Juno/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</details>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**<details><summary>CCG or W3C CCG</summary>**
+
+The **W3C** **C**redentials **C**ommunity **G**roup explores the creation, storage, presentation, verification, and user control of credentials.
+
+**More information: **[W3C CCG Website](https://www.w3.org/community/credentials/)
+
+CCG - EDU
+</details>
+
+**<details><summary>SSI - Self-sovereign Identity</summary>**
+	
+- [Wikipedia Page](https://en.wikipedia.org/wiki/Self-sovereign_identity)
+
+</details>
+
+**<details><summary>VCs - Verifiable Credentials</summary>**
+	
+**V**erifiable **C**redentials, or VCs for short, are tamper-proof credentials that can be verified cryptographically.
+There are three essential components of verifiable credentials, and they are:
+* It is machine verifiable
+* It is secure and tamper-proof
+* Has been issued by a competent authority.
+
+**More information**:
+* [Affinidi VC Explainer](https://academy.affinidi.com/what-are-verifiable-credentials-79f1846a7b9)
+* [Tykn VC Explainer](https://tykn.tech/verifiable-credentials/) </details>
+    
+**<details><summary>DIDs - Decentralized Identifiers</summary>**
+	
+[W3C DID-Core spec](https://www.w3.org/TR/did-core/#:~:text=Abstract,the%20controller%20of%20the%20DID.)
+
+**More information:**
+
+</details>
+
+**<details><summary>ZK or ZKP - Zero-Knowledge Proof</summary>**
+	
+**Z**ero-**K**nowledge Proof or **Z**ero-**K**nowledge **P**rotocol is a method by which one party (the prover) can prove to another party (the verifier) that a given statement is true, without conveying any information apart from the fact that the statement is indeed true. The essence of zero-knowledge proofs is that it is trivial to prove that one possesses knowledge of certain information by simply revealing it; the challenge is to prove such possession without revealing the information itself or any additional information.
+
+**More information:**
+</details>
+
+</details>
+
+**<details><summary>ERP</summary>**
+	
+++
+**More information:**
+</details>
+
+</details>
+
+**<details><summary>Zcaps</summary>**
+	
+++
+**More information:**
+</details>
+
+</details>
+
+**<details><summary>Biscuits</summary>**
+	
+Biscuits are an authentication and authorization token for microservices architectures with the following properties: 
+* distributed authentication
+* offline delegation
+* capabilities based
+* flexible rights managements
+* small 
+
+**More information:** [Clevercloud Github](https://github.com/CleverCloud/biscuit)
+</details>
+</details>
+
+**<details><summary>Macaroons</summary>**
+	
+In computer security, macaroons are authorization credentials that support decentralized delegation between principals
+
+**More information:**
+</details>
+</details>
+
+**<details><summary>DPoP - Demonstration of Proof-of-Possession</summary>**
+
+**D**emonstration of **P**roof-of-**P**ossession 
+
+**More information:** [Medium Explainer](https://darutk.medium.com/illustrated-dpop-oauth-access-token-security-enhancement-801680d761ff)
+</details>
+</details>
+
+**<details><summary>GNAP - Grant Negotiation and Authorization Protocol</summary>**
+**G**rant **N**egotiation and **A**uthorization **P**rotocol
+
+**More information:** [OAuth site](https://oauth.net/gnap/)
+
+</details>
+</details>
+
+**<details><summary>DAO</summary>**
+	
+++
+**More information:**
+</details>
+</details>
+
+**<details><summary>Smart-contracts</summary>**
+	
+++
+**More information:**
+</details>
+</details>
+
+**<details><summary>++</summary>**
+	
+++
+**More information:**
+</details>
+</details>
+
+**<details><summary>++</summary>**
+	
+++
+**More information:**
+</details>
+</details>
+
+**<details><summary>++</summary>**
+	
+++
+**More information:**
+</details>
+</details>
+
+**<details><summary>++</summary>**
+	
+++
+**More information:**
+</details>
+</details>
+
+**<details><summary>++</summary>**
+	
+++
+**More information:**
+</details>
+</details>
+
+**<details><summary>++</summary>**
+	
+++
+**More information:**
+</details>
+</details>
+
+**<details><summary>++</summary>**
+	
+++
+**More information:**
+</details>
+
+
+
+
+As always, we aim to be clear, precise and accessible in our documentation. Have questions or suggestions for us? Please feel free to create a pull request with your feedback, or reach out to [DIF directly](mailto:operations@identity.foundation).
+
+_Copyright © |2022| |DECENTRALIZED IDENTITY FOUNDATION|_  
