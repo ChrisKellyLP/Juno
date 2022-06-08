@@ -1,5 +1,5 @@
 # Juno
-<img src=https://images.unsplash.com/photo-1608768390131-7bfeae6c76f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80>
+<img src="https://images.unsplash.com/photo-1608768390131-7bfeae6c76f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80">
 
 # Common (and less common) Acronyms in Digital Identity
  
